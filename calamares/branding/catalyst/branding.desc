@@ -1,0 +1,37 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         CatalystLinuxOS Development Preview
+    shortProductName:    Catalyst Linux DevPrev
+    version:             1 (ONE)
+    shortVersion:        1
+    versionedName:       CatalystLinuxOS Devel
+    shortVersionedName:  Catalyst Linux Devel
+    bootloaderEntryName: Debian
+    productUrl:          https://debian.org
+    supportUrl:          https://www.debian.org/support
+    knownIssuesUrl:      https://bugs.debian.org
+    releaseNotesUrl:     https://www.debian.org/releases/bookworm/releasenotes
+    donateUrl:           https://www.debian.org
+
+images:
+    productLogo:         "catalyst-logo.png"
+    productIcon:         "catalyst-logo.png"
+    productWelcome:      "welcome.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#1e293b"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#10b981"
+   sidebarTextSelect:    "#10b981"
+
+slideshowAPI: 2
